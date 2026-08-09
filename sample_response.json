@@ -1,0 +1,6 @@
+{
+  "id": 42,
+  "email": "user@example.com",
+  "nickname": null,
+  "is_active": true
+}

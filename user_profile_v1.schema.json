@@ -1,0 +1,10 @@
+{
+  "name": "user_profile_v1",
+  "allow_extra_fields": true,
+  "fields": [
+    {"name": "id", "type": "integer", "required": true},
+    {"name": "email", "type": "string", "required": true},
+    {"name": "nickname", "type": "string", "required": false, "nullable": true},
+    {"name": "is_active", "type": "boolean", "required": true}
+  ]
+}
